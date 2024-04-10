@@ -4,4 +4,4 @@ def fact(n):
         result=i*result
     return result
 print(fact(5))#hbhbbshsa  nshdbshbshbshbhh
-hai
+hai dffd
